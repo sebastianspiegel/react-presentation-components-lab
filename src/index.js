@@ -11,3 +11,7 @@ ReactDOM.render(
   </div>,
   document.getElementById('root')
 );
+
+function handleClick(){
+  
+}
